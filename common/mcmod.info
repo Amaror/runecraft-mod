@@ -1,0 +1,20 @@
+[
+{
+  "modid": "RC",
+	"name": "RuneCraft",
+	"description": "Enchantments? Enchantments!",
+	"version": "0.0.1",
+	"url": "https://github.com/Amaror/runecraft-mod",
+	"updateUrl": "",
+	"authorList": [
+    	"Amaror"
+	],
+	"credits": "Code by Amaror, Art by Amaror",
+	"logoFile": "",
+	"screenshots": [
+	],
+	"parent": "",
+	"dependencies": [
+	]
+}
+]
